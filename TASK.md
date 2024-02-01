@@ -1,0 +1,17 @@
+# HOMEWORK: Finding Use Cases
+
+Welcome to the homework of this section.
+First of all, in this homework you will not be coding.
+You have been learning very important technologies and before moving forward it is beneficial to slow down, review what you have learned and understand how it can be used to solve real world problems or improve current systems.
+
+- First, go to your `github` account and create a new repository.
+- You will name the repository: `Circle User Controlled Wallet Use Case`
+- Create a README.md file.
+- You will write your use case using markdown to this README.md file.
+- The structure should be like the following:
+  - Brief explanation of the user controlled wallets
+  - A problem defition or a system that can be improved with user controlled wallets.
+  - How user controlled wallets solving this problem or enhancing this system.
+  - Conclusion
+
+After you have successfully created this document, you will submit the github repository's link to Risein platform.
