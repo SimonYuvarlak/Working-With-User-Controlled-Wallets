@@ -1,4 +1,4 @@
-# GEtting Test USDC
+# Getting Test USDC
 
 Getting test USDC is really easy.
 
