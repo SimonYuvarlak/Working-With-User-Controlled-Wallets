@@ -5,6 +5,8 @@ This repository is a tutorial for `how to work with user controlled wallets with
 To use this tutorial, you should already have created a user controlled wallet.
 _This tutorial is a follow up from the previous tutorial which explained `how to create user controlled wallets on Circle`. It can be found in [this repository](https://github.com/SimonYuvarlak/User-Controlled-Wallets.git)_
 
+- Next tutorial can be found [here](https://github.com/SimonYuvarlak/Gas-Station.git)
+
 In this repository you will find different folders.
 
 Each folder is categorized based on what they do and inside them you will find an `index.js` and `tutorial.md` files.
