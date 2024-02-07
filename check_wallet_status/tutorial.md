@@ -1,6 +1,6 @@
 # Check Wallet Status
 
-Congrulations on creating your first user controlled wallet. In this lesson, you will you will have the first look
+Congratulations on creating your first user controlled wallet. In this lesson, you will you will have the first look
 at the wallet you created.
 
 ## How To Check Wallet Status
