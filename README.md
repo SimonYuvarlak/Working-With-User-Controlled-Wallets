@@ -16,8 +16,10 @@ Each folder is categorized based on what they do and inside them you will find a
 
 ## Before Following The Tutorial
 
-It is recommended that you create a seperate NodeJS project.
-You can create with the `npm init` or `npm init -y` command.
+This tutorial is expecting that you are using the study branch where there are missing codes that you will complete.
+You can also just read the main branch where the code is complete. 
+
+- If you decide to use study branch, do not forget to create a `.env` file where you will put info like `API_KEY`, `APP_ID`, etc.
 
 ### What You Need To Have
 
