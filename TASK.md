@@ -10,7 +10,7 @@ You have been learning very important technologies and before moving forward it 
 - You will write your use case using markdown to this README.md file.
 - The structure should be like the following:
   - Brief explanation of the user controlled wallets
-  - A problem defition or a system that can be improved with user controlled wallets.
+  - A problem definition or a system that can be improved with user controlled wallets.
   - How user controlled wallets solving this problem or enhancing this system.
   - Conclusion
 
