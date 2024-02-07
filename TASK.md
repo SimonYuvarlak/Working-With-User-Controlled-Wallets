@@ -13,5 +13,3 @@ You have been learning very important technologies and before moving forward it 
   - A problem definition or a system that can be improved with user controlled wallets.
   - How user controlled wallets solving this problem or enhancing this system.
   - Conclusion
-
-After you have successfully created this document, you will submit the github repository's link to Risein platform.
