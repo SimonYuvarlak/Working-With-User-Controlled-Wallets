@@ -32,4 +32,4 @@ Notice that the code in each file requires different information like Api Keys. 
 
 ## Note
 
-There can be typos in the tutorial, one common one is using 'challange' instead of 'challenge'.
+There can be typos in the tutorial, a common one is using 'challange' instead of 'challenge'.
