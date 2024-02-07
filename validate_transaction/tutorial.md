@@ -1,6 +1,6 @@
 # Validating Transaction
 
-Validating transaction thorugh the Circle's website is pretty simple.
+Validating transaction through the Circle's website is pretty simple.
 
 - Sign in to your account in Circle's website where you acquired your API key.
 
@@ -12,4 +12,4 @@ Validating transaction thorugh the Circle's website is pretty simple.
 
 - If you click on a specific transaction, you can see more details about it.
 
-Congrulations! So far, you have created a user controlled wallet, made a transaction by sending token from wallet to wallet and were able to verify this transaction. Sounds pretty good!
+Congratulations! So far, you have created a user controlled wallet, made a transaction by sending token from wallet to wallet and were able to verify this transaction. Sounds pretty good!
