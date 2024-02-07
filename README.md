@@ -29,3 +29,7 @@ After cloning the project, first of all, install the required libraries using th
 To run the files in different folders, you can call `npm run <name_of_the_folder>`.
 
 Notice that the code in each file requires different information like Api Keys. You need to put yours to be able to use it. If you do not have the necessary variables, you can follow this tutorial, which is prerequisite for this one `https://github.com/SimonYuvarlak/User-Controlled-Wallets.git`.
+
+## Note
+
+There can be typos in the tutorial, one common one is using 'challange' instead of 'challenge'.
