@@ -132,7 +132,7 @@ fetch(url, options)
 
 This code return a challangeId inside a json object. You are going to use this challange id as you used before when you played the part of the end user and created a wallet by setting up a pin code and a recovery question. Since this is a user controlled wallet, you need the authorization from the end user. This is true for wallet creation and this is also true for transaction. For that, reason, please save this challange id for the next part.
 
-## Completing the Challange
+## Completing the Challenge
 
 Now that you have the `user token (session token)`, `encryption key` and `challange id`, you can again play the role of the end user and complete the challange for your transaction to be successful.
 
